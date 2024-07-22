@@ -1,0 +1,11 @@
+.nav-container{
+    width: 100%;
+    background-color: #4d4d4d;
+    padding: 25px 15px;
+    
+}
+.nav-content{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}

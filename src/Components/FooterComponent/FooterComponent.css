@@ -1,0 +1,15 @@
+/* FooterComponent.css */
+
+.footer {
+    background-color: #4d4d4d; /* Match the gray color from the image */
+    color: #fff; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 10px 0; /* Padding for spacing */
+    width: 100%; /* Full width */
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margin */
+    font-size: 14px; /* Adjust font size if necessary */
+  }
+  
